@@ -1,6 +1,8 @@
-from src.hh_api import HHApi
 from unittest.mock import patch
+
 from requests import Response
+
+from src.hh_api import HHApi
 
 
 @patch("requests.get")

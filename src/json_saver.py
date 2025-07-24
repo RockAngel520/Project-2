@@ -1,6 +1,5 @@
-from abc import ABC, abstractmethod
-
 import json
+from abc import ABC, abstractmethod
 
 from src.config import PATH_VACATIONS_JSON
 from src.vacancy import Vacancy
@@ -32,7 +31,6 @@ class JSONSaver(AbstractJson):
         """Метод для инициализации класса JSONSaver"""
         self.__filename = filename
 
-
     def write_vacancies(self, vacancies: list[dict]):
         """Метод для добавления вакансий в JSON-файл"""
 
@@ -44,8 +42,14 @@ class JSONSaver(AbstractJson):
                 if vacancy["alternate_url"] == vacancies_filter[vac]["link"]:
                     count += 1
             if count == 0:
-                vacancies_filter.append({"name": vacancy["name"], "link":
-                    vacancy["alternate_url"], "salary": vacancy["salary"], "description": vacancy["snippet"]["requirement"]})
+                vacancies_filter.append(
+                    {
+                        "name": vacancy["name"],
+                        "link": vacancy["alternate_url"],
+                        "salary": vacancy["salary"],
+                        "description": vacancy["snippet"]["requirement"],
+                    }
+                )
         with open(self.__filename, "w", encoding="utf-8") as f:
             json.dump(vacancies_filter, f, ensure_ascii=False, indent=4)
 
@@ -60,39 +64,8 @@ class JSONSaver(AbstractJson):
             vacancies.append(Vacancy(**vacancy))
         return vacancies
 
-
     def delete_vacancies(self):
         """Метод удаления вакансий из JSON-файла"""
 
         with open(self.__filename, "w") as f:
             json.dump([], f)
-
-
-if __name__ == "__main__":
-    json_saver = JSONSaver()
-    # json_saver.write_vacancies([
-    # {
-    #     "name": "W",
-    #     "alternate_url": "https://hh.ru/vacancy/13122974502",
-    #     "salary": {
-    #         "from": 100000,
-    #         "to": 100000,
-    #         "currency": "KZT",
-    #         "gross": True
-    #     },
-    #     "snippet": {"requirement": "Carfast"}
-    # },
-    #     {
-    #         "name": "W",
-    #         "alternate_url": "https://hh.ru/vacancy/14122974502",
-    #         "salary": {
-    #             "from": 100000,
-    #             "to": 100000,
-    #             "currency": "KZT",
-    #             "gross": True
-    #         },
-    #         "snippet": {"requirement": "Carfast"}
-    #     }
-    # ])
-    #
-    json_saver.delete_vacancies()

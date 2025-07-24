@@ -6,12 +6,10 @@ import requests
 class AbstractApi(ABC):
     """Абстрактный класс для работы с API-сервисами с вакансиями"""
 
-
     @abstractmethod
     def _connect(self, text):
         """Абстрактный метод для подключения к API"""
         pass
-
 
     @abstractmethod
     def get_vacancies(self, text):
@@ -22,12 +20,10 @@ class AbstractApi(ABC):
 class HHApi(AbstractApi):
     """Класс для работы с API сайта hh.ru с вакансиями"""
 
-
     def __init__(self, page=0):
         """Метод для инициализации экземпляра класса HHApi"""
         self.__url = "https://api.hh.ru/vacancies"
         self.__params = {"page": page, "per_page": 30}
-
 
     def _connect(self, text):
         """Метод создания и отправки get запроса по API"""
@@ -39,15 +35,8 @@ class HHApi(AbstractApi):
         else:
             print("Ошибка подключения к сервису")
 
-
     def get_vacancies(self, text):
         """Метод получения вакансий из запроса в формате JSON"""
 
-        vacancies =  self._connect(text).json()["items"]
+        vacancies = self._connect(text).json()["items"]
         return vacancies
-
-
-
-if __name__ == "__main__":
-    hh_api = HHApi()
-    print(hh_api.get_vacancies("python"))

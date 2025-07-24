@@ -1,6 +1,6 @@
 from src.hh_api import HHApi
 from src.json_saver import JSONSaver
-from src.utils import top_vacancies, print_vacancies
+from src.utils import print_vacancies, top_vacancies
 
 
 def user_interface():

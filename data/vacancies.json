@@ -548,5 +548,49 @@
         "link": "https://hh.ru/vacancy/123157467",
         "salary": null,
         "description": "Понимание принципов ООП. Опыт работы с фреймворками Django или Flask. Опыт работы с SQL (приоритет PostgreSQL). Навыки администрирования Linux (начальный..."
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/123191904",
+        "salary": {
+            "from": 800,
+            "to": 1500,
+            "currency": "BYR",
+            "gross": false
+        },
+        "description": null
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/122093205",
+        "salary": {
+            "from": null,
+            "to": 95000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Умение работать с большим объемом информации. Уверенный пользователь Microsoft Office офисной оргтехники. Знание основ документооборота (обязательно). Высшее образование. "
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/123103943",
+        "salary": {
+            "from": 7000000,
+            "to": 10000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "description": null
+    },
+    {
+        "name": "Office Manager (Tbilisi) / Офис-менеджер (Тбилиси)",
+        "link": "https://hh.ru/vacancy/123119883",
+        "salary": {
+            "from": 1000,
+            "to": null,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Знание Excel на среднем уровне. Свободное владение грузинским и русским языком. Опыт в расчете расходов/баланса. Опыт в планировании бюджета. "
     }
 ]
