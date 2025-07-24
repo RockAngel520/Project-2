@@ -1,5 +1,325 @@
 [
     {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/123041447",
+        "salary": {
+            "from": 1500,
+            "to": 3000,
+            "currency": "BYR",
+            "gross": false
+        },
+        "description": "Грамотная речь и грамотное написание текстов на русском языке. Владение английским языком на уровне не ниже В2."
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/123101838",
+        "salary": {
+            "from": 200000,
+            "to": 200000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "Стрессоустойчивость. Знание казахского языка."
+    },
+    {
+        "name": "Переводчик - офис менеджер",
+        "link": "https://hh.ru/vacancy/123128926",
+        "salary": {
+            "from": 450000,
+            "to": 625000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "description": "Должен знать: иностранные языки в совершенстве - АНГЛИЙСКИЙ ТЕХНИЧЕСКИЙ, очень желательно знание китайского языка; методику научно-технического перевода; действующую систему координации..."
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/122798763",
+        "salary": {
+            "from": 10000000,
+            "to": 20000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "description": "Грамотная устная и письменная речь. Свободное знание узбекского, русского и английского (желательно) языков. Опыт работы в call-center (желательно). "
+    },
+    {
+        "name": "Секретарь (офис-менеджер)",
+        "link": "https://hh.ru/vacancy/122310504",
+        "salary": {
+            "from": 350000,
+            "to": 700000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "description": "Грамотную речь и уверенное владение ПК. Ответственность, вежливость, пунктуальность. Желание работать и создавать уют в офисе. Опыт работы в аналогичной..."
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/122734206",
+        "salary": {
+            "from": null,
+            "to": 2000,
+            "currency": "USD",
+            "gross": true
+        },
+        "description": "Грамотная устная и письменная речь. Ответственность, аккуратность, пунктуальность. Владение ПК на уровне уверенного пользователя. Желание учиться и развиваться в музыкальной..."
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/122779020",
+        "salary": {
+            "from": 9000000,
+            "to": null,
+            "currency": "UZS",
+            "gross": true
+        },
+        "description": "Опыт работы от 1 года. Уверенный пользователь ПК (Word, Excel, Google Docs, ChatGPT). Владение русским, узбекским и английским языками. "
+    },
+    {
+        "name": "Офис менеджер",
+        "link": "https://hh.ru/vacancy/122918591",
+        "salary": {
+            "from": 345000,
+            "to": 350000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "description": "Коммуникабельность,грамотная речь. Уверенный владение ПК (Word,Excel). Ответственный,исполнительный. Опыт работы приветствуется но не всегда обязательно."
+    },
+    {
+        "name": "Управляющая / Управляющий офисом / Руководитель АХО",
+        "link": "https://hh.ru/vacancy/123192566",
+        "salary": null,
+        "description": "Опыт работы на аналогичной должности от 2 лет. Опыт управления. Умение выстраивать системную работу отдела и автоматизировать процессы. "
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/123116050",
+        "salary": {
+            "from": 300000,
+            "to": 300000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "Знание офисных программ, принципов работы в сети Интернет. Честность и дисциплинированность. Высокий уровень ответственности, пунктуальность. Уметь расставлять приоритеты и быть..."
+    },
+    {
+        "name": "Секретарь приемной руководителя",
+        "link": "https://hh.ru/vacancy/123031759",
+        "salary": {
+            "from": 305000,
+            "to": 305000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "description": "Требования: знание правил делопроизводства, уверенное владение навыками делопроизводства. Правила делового общения. Навыки работы с оргтехникой."
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/122829142",
+        "salary": {
+            "from": 1700,
+            "to": null,
+            "currency": "BYR",
+            "gross": true
+        },
+        "description": "Образование высшее (желательно юридическое). Опыт работы в сфере делопроизводства (кадрового, общего и т.п.). Владение ПЭВМ, оргтехникой."
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/123156695",
+        "salary": {
+            "from": 80000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Высшее образование. - опыт работы на должностях с аналогичным функционалом не менее 3-х лет. - уверенный пользователь программ: 1С Документооборот..."
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/122756219",
+        "salary": {
+            "from": null,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Отличные организаторские и лидерские навыки. Умение эффективно планировать и распределять задачи. Знание офисных программ (MS Office, Google Workspace) и офисной..."
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/122991247",
+        "salary": {
+            "from": 800000,
+            "to": 1000000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "description": "Образование: высшее или средне-специальное. Опыт работы: от 3 лет на аналогичной должности. Языковые навыки: Английский язык — не ниже уровня..."
+    },
+    {
+        "name": "Секретарь приемной",
+        "link": "https://hh.ru/vacancy/123135622",
+        "salary": {
+            "from": 2000,
+            "to": null,
+            "currency": "BYR",
+            "gross": true
+        },
+        "description": "Среднее образование. Уверенный ПК пользователь. Умение работать с оргтехникой. Опыт работы. Грамотная речь. Знание основ делопроизводства."
+    },
+    {
+        "name": "Секретарь",
+        "link": "https://hh.ru/vacancy/122236585",
+        "salary": {
+            "from": null,
+            "to": 55000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Высшее/незаконченное высшее образование. Владение английским языком не ниже уровня Intermediate - будет преимуществом. Развитые коммуникативные навыки. Желание развиваться."
+    },
+    {
+        "name": "Офис-менеджер/помощник руководителя",
+        "link": "https://hh.ru/vacancy/123142627",
+        "salary": {
+            "from": 80500,
+            "to": 80500,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "От Вас потребуется: - Стрессоустойчивость и дисциплинированность. - ответственность и исполнительность. - тактичность и доброжелательность."
+    },
+    {
+        "name": "Администратор офиса",
+        "link": "https://hh.ru/vacancy/121821251",
+        "salary": {
+            "from": null,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт работы с делопроизводством. Свободно владеете английским языком (уровень не ниже С1). Уверенное владение ПК (MS Office, Excel), желательно..."
+    },
+    {
+        "name": "Оператор 1С / Офис-менеджер",
+        "link": "https://hh.ru/vacancy/123084633",
+        "salary": {
+            "from": 65000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы в 1С и с первичной документацией приветствуется. Знание офисного пакета программ (Word, Excel и т.д). "
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/122500456",
+        "salary": {
+            "from": 85000,
+            "to": 95000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Умение пользоваться офисной техникой. Продвинутый пользователь ПК: MS Office, Excel. Опыт работы не менее 1 года. Пунктуальность, ответственность, внимательность. "
+    },
+    {
+        "name": "Секретарь директора",
+        "link": "https://hh.ru/vacancy/123003083",
+        "salary": {
+            "from": 300000,
+            "to": 400000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "description": "Опыт работы в административной сфере приветствуется. Знание организации офисной работы. Грамотная устная и письменная речь. Умение работать в коллективе. "
+    },
+    {
+        "name": "Делопроизводитель/секретарь",
+        "link": "https://hh.ru/vacancy/123133982",
+        "salary": {
+            "from": 35000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Требования: высшее образование, опыт работы от 1 года."
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/123152788",
+        "salary": {
+            "from": 85000,
+            "to": 95000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Высшее образование. Уверенный пользователь ПК ,MS Office,1С. Коммуникабельность, умение работать в команде обязательно, трудолюбие, целеустремленность, стрессоустойчивость, бесконфликтность. "
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/123062243",
+        "salary": {
+            "from": 57000,
+            "to": 87000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Уверенный пользователь ПК (MS Office, интернет, почтовые программы). - Знание и умение работать в 1С ERP или 1С Комплексная..."
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/123154916",
+        "salary": {
+            "from": null,
+            "to": 200000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "description": "Навыки: Уверенное владение ПК (Word, Excel, Outlook, принтер/сканер). Знание делопроизводства и документооборота. Умение вести первичную документацию. Навыки работы с..."
+    },
+    {
+        "name": "Делопроизводитель (секретарь руководителя)",
+        "link": "https://hh.ru/vacancy/123044505",
+        "salary": {
+            "from": 76400,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Образование не ниже среднего профессионального. Уверенный пользователь ПК (пакет программ Microsoft Office: Word, Excel, Outlook), знание орг. техники. Знание делопроизводства. "
+    },
+    {
+        "name": "Личный помощник / Ассистент руководителя / Офис менеджер / Секретарь",
+        "link": "https://hh.ru/vacancy/122337931",
+        "salary": {
+            "from": 350000,
+            "to": 400000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "description": "Коммуникабельность. Умение выделять основную мысль ,передавать информацию. Опыт работы обязателен. Планирование."
+    },
+    {
+        "name": "Офис-менеджер",
+        "link": "https://hh.ru/vacancy/123145086",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Имеет навык ведения деловой переписки. Имеет навыки работы с офисной техникой и офисными программами. Грамотная устная и письменная речь. "
+    },
+    {
+        "name": "Секретарь Президента компании",
+        "link": "https://hh.ru/vacancy/122843977",
+        "salary": null,
+        "description": "Имеете навыки этики и культуры межличностного общения. Коммуникабельны и умеете слушать и слышать. Инициативны. Умеете расставлять приоритеты. Умеете управлять временем. "
+    },
+    {
         "name": "Web-программист - стажер",
         "link": "https://hh.ru/vacancy/122974502",
         "salary": {
@@ -11,33 +331,27 @@
         "description": "Carfast- Первый онлайн авто аукцион в Казахстане. Доброжелательный и целеустремленный командный игрок. Принимаете верные решения в критических ситуациях. "
     },
     {
-        "name": "Python-разработчик",
-        "link": "https://hh.ru/vacancy/123160544",
-        "salary": null,
-        "description": "Обязательно владение языком программирования <highlighttext>Python</highlighttext> и фреймфорка Django. Базовые понятия архитектуры ПО. Знания паттернов (шаблонов) проектирования и принципов оформления кода..."
+        "name": "Middle QA",
+        "link": "https://hh.ru/vacancy/123047953",
+        "salary": {
+            "from": null,
+            "to": 1900,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Опыт автоматизации тестирования UI с использованием <highlighttext>Python</highlighttext>, а также API с использованием Pytest/Request. Умение работать с инструментами для тестирования..."
     },
     {
         "name": "QA Engineer",
-        "link": "https://hh.ru/vacancy/123161556",
-        "salary": {
-            "from": 200000,
-            "to": 240000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "description": "2. Опыт разработки автоматизированных тестов с использованием <highlighttext>Python</highlighttext>. 3. Владение SQL на продвинутом уровне. 4. Знание и понимание методологий и..."
+        "link": "https://hh.ru/vacancy/123195116",
+        "salary": null,
+        "description": "Опыт планирования работ по тестированию, контроля выполнения задач и формирования отчетности. Будет плюсом: Знание <highlighttext>Python</highlighttext>/Java для автоматизации тестирования. "
     },
     {
-        "name": "Java разработчик (эксплуатация)",
-        "link": "https://hh.ru/vacancy/123112277",
+        "name": "Python-разработчик",
+        "link": "https://hh.ru/vacancy/123114305",
         "salary": null,
-        "description": "Понимание принципов REST API, микросервисной архитектуры. - Базовые знания <highlighttext>Python</highlighttext>. - Навыки отладки и анализа (анализ логов ELK, мониторинг в Prometheus, умение..."
-    },
-    {
-        "name": "Аналитик данных",
-        "link": "https://hh.ru/vacancy/123142983",
-        "salary": null,
-        "description": "Навыки коммуникации: способность ясно доносить выводы до коллег из разных отделов. Опыт работы с <highlighttext>Python</highlighttext> для анализа данных. "
+        "description": "Опыт работы с Linux-системами. Опыт работы с асинхронным <highlighttext>Python</highlighttext> (asyncio, aiohttp). Навыки настройки CI/CD (GitLab CI, GitHub Actions). "
     },
     {
         "name": "Тестировщик ПО",
@@ -51,10 +365,56 @@
         "description": "Уверенное знание Linux, опыт работы в командной строке. Опыт программирования и знание <highlighttext>Python</highlighttext>. Опыт работы с фреймворками для автоматизации тестирования..."
     },
     {
-        "name": "Python-developer",
-        "link": "https://hh.ru/vacancy/123147779",
+        "name": "Middle Backend Developer Python (Сore Team)",
+        "link": "https://hh.ru/vacancy/122909992",
         "salary": null,
-        "description": "опыт работы в роли <highlighttext>Python</highlighttext> Developer от 6 месяцев. - знание <highlighttext>Python</highlighttext> 3.8+, типизации, context managers, декораторов, генераторов. - "
+        "description": "У тебя есть опыт разработки на <highlighttext>Python</highlighttext> от 4 лет. Знаком с сервисами очередей и имеешь опыт работы с ними. "
+    },
+    {
+        "name": "Python разработчик",
+        "link": "https://hh.ru/vacancy/123152651",
+        "salary": {
+            "from": 250000,
+            "to": 400000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "Уверенное знание <highlighttext>Python</highlighttext> 3.8+. Опыт работы с FastAPI и/или Django (от 2 лет). Понимание ООП и паттернов..."
+    },
+    {
+        "name": "Тестировщик веб-приложений",
+        "link": "https://hh.ru/vacancy/120800634",
+        "salary": null,
+        "description": "Опыт E2E-тестирования от 2+ лет. Знание <highlighttext>Python</highlighttext> + Pytest, TypeScript + Playwright. Опыт тестирования API (REST..."
+    },
+    {
+        "name": "Backend-разработчик (Junior/Middle)",
+        "link": "https://hh.ru/vacancy/123052790",
+        "salary": {
+            "from": 80000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Уверенное знание <highlighttext>Python</highlighttext> 3. Опыт веб-разработки с использованием Django (CBV, ORM, админка, middleware). Умение писать телеграм-ботов на aiogram..."
+    },
+    {
+        "name": "Java разработчик (эксплуатация)",
+        "link": "https://hh.ru/vacancy/123112277",
+        "salary": null,
+        "description": "Понимание принципов REST API, микросервисной архитектуры. - Базовые знания <highlighttext>Python</highlighttext>. - Навыки отладки и анализа (анализ логов ELK, мониторинг в Prometheus, умение..."
+    },
+    {
+        "name": "Аналитик данных",
+        "link": "https://hh.ru/vacancy/123193774",
+        "salary": null,
+        "description": "Владение <highlighttext>Python</highlighttext> для анализа данных и осуществления ETL/ELT на хорошем уровне ( базовый синтаксис, основы ООП, Pandas). Владение инструментами BI..."
+    },
+    {
+        "name": "Python-разработчик middle/senior",
+        "link": "https://hh.ru/vacancy/123114761",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3 лет. Глубокие знания <highlighttext>Python</highlighttext> 3.x, ООП, понимание принципов SOLID, паттернов проектирования. "
     },
     {
         "name": "QA manual",
@@ -69,86 +429,16 @@
         "description": "Умение оценивать объем и сроки работ. — Умение оценивать объем и сроки работ. — Готовность быстро освоить новые технологии. — Готовность освоить наш..."
     },
     {
-        "name": "Backend-разработчик (Junior/Middle)",
-        "link": "https://hh.ru/vacancy/123052790",
-        "salary": {
-            "from": 80000,
-            "to": 180000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "description": "Уверенное знание <highlighttext>Python</highlighttext> 3. Опыт веб-разработки с использованием Django (CBV, ORM, админка, middleware). Умение писать телеграм-ботов на aiogram..."
-    },
-    {
-        "name": "Middle Backend Developer Python (Сore Team)",
-        "link": "https://hh.ru/vacancy/122909992",
+        "name": "Цифровая душа компании",
+        "link": "https://hh.ru/vacancy/123151117",
         "salary": null,
-        "description": "У тебя есть опыт разработки на <highlighttext>Python</highlighttext> от 4 лет. Знаком с сервисами очередей и имеешь опыт работы с ними. "
-    },
-    {
-        "name": "Аналитик данных",
-        "link": "https://hh.ru/vacancy/123149754",
-        "salary": null,
-        "description": "Опыт проведения аналитических исследований. Умение составлять SQL запросы. Обязательное знание Excel (продвинутый пользователь), Power Point. Знание SAS, <highlighttext>Python</highlighttext> будет преимуществом."
-    },
-    {
-        "name": "Тестировщик веб-приложений",
-        "link": "https://hh.ru/vacancy/120800634",
-        "salary": null,
-        "description": "Опыт E2E-тестирования от 2+ лет. Знание <highlighttext>Python</highlighttext> + Pytest, TypeScript + Playwright. Опыт тестирования API (REST..."
-    },
-    {
-        "name": "Python Developer",
-        "link": "https://hh.ru/vacancy/123139801",
-        "salary": null,
-        "description": "Уверенное владение Git. Коммерческий опыт с <highlighttext>Python</highlighttext>-фреймворками. Разработка на новых версиях <highlighttext>Python</highlighttext> (3.10+). Опыт работы с асинхронным..."
-    },
-    {
-        "name": "Инженер отдела тестирования и валидации (ПО)",
-        "link": "https://hh.ru/vacancy/122847777",
-        "salary": null,
-        "description": "Высшее техническое образование (желательно по IT специальности). Опыт работы тестировщиком. Опыт работы в Unix-подобных системах. Знание процесса разработки ПО..."
-    },
-    {
-        "name": "Data Analyst/Аналитик данных",
-        "link": "https://hh.ru/vacancy/123121279",
-        "salary": null,
-        "description": "Уверенное владение MS Excel (формулы, Power Query). Базовые навыки <highlighttext>Python</highlighttext> для обработки данных (pandas, requests, json). Понимание принципов хранения и..."
-    },
-    {
-        "name": "Backend-разработчик",
-        "link": "https://hh.ru/vacancy/123086069",
-        "salary": {
-            "from": 200000,
-            "to": null,
-            "currency": "KZT",
-            "gross": true
-        },
-        "description": "Уверенное знание <highlighttext>Python</highlighttext> и одного из фреймворков: FastAPI, Flask, Django. Опыт работы с PostgreSQL, Redis. Знание принципов микросервисной архитектуры и..."
-    },
-    {
-        "name": "Руководитель проекта",
-        "link": "https://hh.ru/vacancy/123120008",
-        "salary": null,
-        "description": "Опыт в проектном управлении. Умение структурировать и анализировать данные (SQL, MS Excel, <highlighttext>Python</highlighttext>). Опыт в финансовом моделировании. Английский язык не..."
-    },
-    {
-        "name": "Python-разработчик",
-        "link": "https://hh.ru/vacancy/123089525",
-        "salary": null,
-        "description": "Высшее образование. Отличное знание <highlighttext>Python</highlighttext> и его экосистемы (от веб-разработки до анализа данных). Опыт работы с базами данных (SQL..."
+        "description": "В ИТ-Холдинге Т1 кофе варят на <highlighttext>Python</highlighttext>, а отпуск согласовывают через Telegram-бота. Мы настолько верим в будущее..."
     },
     {
         "name": "Инженер-тестировщик (ручное тестирование)",
         "link": "https://hh.ru/vacancy/123067133",
         "salary": null,
         "description": "Опыт траблшутинга сетевого оборудования и сетевых протоколов. Знание протоколов динамической маршрутизации OSPF, BGP, MPLS. Знание основ языка программирования <highlighttext>Python</highlighttext>, других..."
-    },
-    {
-        "name": "Python-разработчик",
-        "link": "https://hh.ru/vacancy/123114305",
-        "salary": null,
-        "description": "Опыт работы с Linux-системами. Опыт работы с асинхронным <highlighttext>Python</highlighttext> (asyncio, aiohttp). Навыки настройки CI/CD (GitLab CI, GitHub Actions). "
     },
     {
         "name": "Middle Python Developer",
@@ -162,16 +452,33 @@
         "description": "Scrapy. Docker, Airflow, Celery, Redis. Postgres. Опыт работы с <highlighttext>Python</highlighttext> от 2х лет. Опыт разработки с использованием FastAPI. "
     },
     {
-        "name": "QA инженер",
-        "link": "https://hh.ru/vacancy/123128282",
+        "name": "IT Administrator",
+        "link": "https://hh.ru/vacancy/123157004",
         "salary": null,
-        "description": "Умение работать с DevTools. Навыки работы с Postman. Базовые знания <highlighttext>Python</highlighttext> и фреймворков для UI-тестирования (Playwright, Selenium и др.). "
+        "description": "Мы запускаем IT Admin — программу для кандидаток, которые хотят построить карьеру в сфере технологий. Если у вас пока нет опыта..."
     },
     {
-        "name": "Backend-разработчик",
-        "link": "https://hh.ru/vacancy/122804385",
+        "name": "Python-developer",
+        "link": "https://hh.ru/vacancy/123147779",
         "salary": null,
-        "description": "Опыт работы с <highlighttext>Python</highlighttext> от 2 лет (FastAPI, aiohttp). Знание PostgreSQL, Redis, RabbitMQ. Опыт работы с Docker, CI/CD, Prometheus..."
+        "description": "опыт работы в роли <highlighttext>Python</highlighttext> Developer от 6 месяцев. - знание <highlighttext>Python</highlighttext> 3.8+, типизации, context managers, декораторов, генераторов. - "
+    },
+    {
+        "name": "Junior Python Разработчик",
+        "link": "https://hh.ru/vacancy/122812474",
+        "salary": {
+            "from": 110000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Уверенное знание <highlighttext>Python</highlighttext> 3. Знание Django, FastAPI или Flask. Понимание структуры REST API, опыт взаимодействия с внешними сервисами. "
+    },
+    {
+        "name": "Python-разработчик",
+        "link": "https://hh.ru/vacancy/123089525",
+        "salary": null,
+        "description": "Высшее образование. Отличное знание <highlighttext>Python</highlighttext> и его экосистемы (от веб-разработки до анализа данных). Опыт работы с базами данных (SQL..."
     },
     {
         "name": "Системный/бизнес аналитик",
@@ -180,10 +487,27 @@
         "description": "Опыт проведения интервью по сбору требований с бизнес заказчиком. Знания нотаций UML, BPMN. Умение проектировать логические модели данных. "
     },
     {
-        "name": "QA инженер (Termidesk)",
-        "link": "https://hh.ru/vacancy/123115692",
+        "name": "Data Analyst/Аналитик данных",
+        "link": "https://hh.ru/vacancy/123121279",
         "salary": null,
-        "description": "Умение работать с Linux-системами: командная строка, шелл-скрипты, начальное знание <highlighttext>Python</highlighttext>. Навыки работы с виртуальными машинами. Навыки работы с..."
+        "description": "Уверенное владение MS Excel (формулы, Power Query). Базовые навыки <highlighttext>Python</highlighttext> для обработки данных (pandas, requests, json). Понимание принципов хранения и..."
+    },
+    {
+        "name": "Руководитель проекта",
+        "link": "https://hh.ru/vacancy/123120008",
+        "salary": null,
+        "description": "Опыт в проектном управлении. Умение структурировать и анализировать данные (SQL, MS Excel, <highlighttext>Python</highlighttext>). Опыт в финансовом моделировании. Английский язык не..."
+    },
+    {
+        "name": "IT Support Engineer",
+        "link": "https://hh.ru/vacancy/123100245",
+        "salary": {
+            "from": null,
+            "to": 2000,
+            "currency": "USD",
+            "gross": true
+        },
+        "description": "Ability to write and debug simple scripts (Bash or <highlighttext>Python</highlighttext>; PowerShell is a bonus). Understanding of core networking concepts (TCP..."
     },
     {
         "name": "Программист (Junior - младший разработчик)",
@@ -197,31 +521,32 @@
         "description": "Знание одного из объектно-ориентированного языка программирования, к примеру: C++\\C#, Delphi, <highlighttext>Python</highlighttext>, Pascal, 1С. Знание работы с СУБД..."
     },
     {
-        "name": "QA Engineer (IoT)",
-        "link": "https://hh.ru/vacancy/123119647",
-        "salary": {
-            "from": 200000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "description": "Уверенно ориентируешься в Linux (Wireshark, Zeek, сборка тулчейнов). Пишешь на <highlighttext>Python</highlighttext> для автоматизации тестов. Имеешь 2–5 лет опыта в..."
+        "name": "Аналитик данных",
+        "link": "https://hh.ru/vacancy/123142983",
+        "salary": null,
+        "description": "Навыки коммуникации: способность ясно доносить выводы до коллег из разных отделов. Опыт работы с <highlighttext>Python</highlighttext> для анализа данных. "
     },
     {
         "name": "Python Developer",
-        "link": "https://hh.ru/vacancy/123161335",
+        "link": "https://hh.ru/vacancy/123139801",
         "salary": null,
-        "description": "Понимание бизнес-логики. Требования: Понимание Asyncio. Опыт работы с Postgres, ClickHouse. Опыт работы с FastApi, SQLAlchemy, aiohttp, Alembic, Celery, Django. "
+        "description": "Уверенное владение Git. Коммерческий опыт с <highlighttext>Python</highlighttext>-фреймворками. Разработка на новых версиях <highlighttext>Python</highlighttext> (3.10+). Опыт работы с асинхронным..."
     },
     {
-        "name": "Middle backend разработчик (Fastapi)",
-        "link": "https://hh.ru/vacancy/123070843",
+        "name": "Backend-разработчик",
+        "link": "https://hh.ru/vacancy/123086069",
         "salary": {
-            "from": 180000,
-            "to": 200000,
-            "currency": "RUR",
-            "gross": false
+            "from": 200000,
+            "to": null,
+            "currency": "KZT",
+            "gross": true
         },
-        "description": "Глубокое понимание архитектуры REST API. Знаешь, где применять статус-коды, как работать с idempotency, авторизацией, пагинацией, версионированием и стандартизацией ответов. "
+        "description": "Уверенное знание <highlighttext>Python</highlighttext> и одного из фреймворков: FastAPI, Flask, Django. Опыт работы с PostgreSQL, Redis. Знание принципов микросервисной архитектуры и..."
+    },
+    {
+        "name": "Junior / Middle Backend-разработчик",
+        "link": "https://hh.ru/vacancy/123157467",
+        "salary": null,
+        "description": "Понимание принципов ООП. Опыт работы с фреймворками Django или Flask. Опыт работы с SQL (приоритет PostgreSQL). Навыки администрирования Linux (начальный..."
     }
 ]
